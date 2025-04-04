@@ -1,0 +1,7 @@
+{
+  "name": "Mozzarella",
+  "type": "cheese",
+  "expiry_date": "2025-05-10",
+  "quantity": "200g",
+  "fresh": true
+}

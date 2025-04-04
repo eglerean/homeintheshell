@@ -1,0 +1,6 @@
+{
+  "name": "Pizza Base",
+  "type": "dough",
+  "expiry_date": "2025-07-01",
+  "ready_to_use": true
+}
